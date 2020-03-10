@@ -566,6 +566,19 @@ body {
     }
 }
 
+@media screen and (max-width: 375px) {
+
+    #main-content .container-cards .card .description .details,
+    #main-content .container-cards .card .description .nickname,
+    #main-content .container-cards .card .description .profession {
+        font-size: 1em;
+    }
+
+    #main-content .container-cards .card .description .name {
+        font-size: 1.2em;
+    }
+}
+
 /*Main menu responsive*/
 
 /* End Style for responsive design*/
