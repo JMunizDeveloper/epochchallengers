@@ -156,6 +156,7 @@ body {
     position: relative;
     top: 30px;
     width: 100%;
+    background-color: #000;
 }
 
 #main-content h1#team-name {
